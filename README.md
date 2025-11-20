@@ -19,7 +19,11 @@ imagenes: Carpeta con imágenes de prueba.
 ## Librerías necesarias
 
 Pillow
+
 NumPy
+
 Matplotlib
+
 OpenCV
+
 Requests

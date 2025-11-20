@@ -2,7 +2,11 @@
 
 Integrantes: Mauro Fernandez, Tomás Caceres, Tomás Zucchi.
 
-Este proyecto es una pequeña aplicación de procesamiento de imágenes en Python. Incluye herramientas para redimensionar imágenes, ecualizar contraste, aplicar filtros y generar bocetos estilo dibujo.
+Este proyecto es una pequeña aplicación de procesamiento de imágenes en Python. Incluye herramientas para redimensionar imágenes, ecualizar contraste, aplicar filtros y generar bocetos estilo dibujo. El proyecto incluye:
+
+Un módulo principal (fotoapp.py) con todas las funciones y un menú interactivo.
+
+Un notebook de pruebas (fotoapp_testdev.ipynb) para ejecutar y visualizar los resultados de las funciones directamente.
 
 Diagrama de flujo:
 

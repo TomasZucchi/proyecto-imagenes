@@ -1,6 +1,6 @@
 # proyecto-imagenes
 
-Integrantes: Mauro Fernandez, Tomás Caceres, Tomas Zucchi.
+Integrantes: Mauro Fernandez, Tomás Caceres, Tomás Zucchi.
 
 Este proyecto es una pequeña aplicación de procesamiento de imágenes en Python. Incluye herramientas para redimensionar imágenes, ecualizar contraste, aplicar filtros y generar bocetos estilo dibujo.
 

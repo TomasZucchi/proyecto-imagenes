@@ -10,7 +10,7 @@ fotoapp.py: Módulo principal con todas las funciones y un menú interactivo.
 
 fotoapp_testdev.ipynb: Notebook para probar las funciones y visualizar resultados directamente.
 
-imagenes_ejemplo/ (opcional): Carpeta con imágenes de prueba.
+imagenes: Carpeta con imágenes de prueba.
 
 ## Diagrama de flujo
 
